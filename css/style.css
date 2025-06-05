@@ -58,8 +58,8 @@
 .itemm3 {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 0px 20px !important;
+    justify-content: space-evenly;
+    padding: 34px 37px !important;
 min-width: 150px;
 }
 
